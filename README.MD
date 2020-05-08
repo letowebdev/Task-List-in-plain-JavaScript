@@ -11,13 +11,12 @@ This small app cover most of the basics of javascript and the code was written i
 None
 
 ```
-Except of course of your browser and your code editor
+Except of course your browser and your code editor
 ```
 
 ### Installing
 
 git clone https://github.com/letophp/Task-List-in-plain-JavaScript.git
-
 
 
 ## Deployment
