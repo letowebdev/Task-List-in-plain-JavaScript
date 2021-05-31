@@ -21,7 +21,7 @@ git clone https://github.com/letophp/Task-List-in-plain-JavaScript.git
 
 ## Deployment
 
-https://zacheleto.me/Projects/tasklist
+https://zacheleto.de/Projects/tasklist
 
 ## Built With
 
